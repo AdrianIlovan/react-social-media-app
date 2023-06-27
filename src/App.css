@@ -39,8 +39,8 @@ body {
 }
 
 .task button {
-  width: 25px;
-  height: 20px;
-  margin-left: 20px;
+  width: 50px;
+  height: 30px;
+  margin-left: 10px;
   text-align: center;
 }
